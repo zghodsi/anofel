@@ -1,0 +1,8 @@
+Files: *
+Copyright: Zahra Ghodsi
+License: Apache-2.0
+
+Files: anofel-snark
+Copyright: Free Software Foundation
+License: GNU GPLv3
+Comment: Based on work from https://github.com/HarryR/ethsnarks/tree/master/src/jubjub
