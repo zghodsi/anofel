@@ -18,4 +18,5 @@ In the following, describe how to access our artifact and all related and necess
 Afterward, describe how to set up everything and how to verify that everything is set up correctly.
 
 ### Accessibility (All badges)
-The artifact can be accessed from https://github.com/zghodsi/anofel commit [04b6f3f](https://github.com/zghodsi/anofel/tree/04b6f3f9ecb8762d6deb413449caea5145151bcd).
+The artifact can be accessed from the [artifact branch](https://github.com/zghodsi/anofel/tree/artifact).
+
