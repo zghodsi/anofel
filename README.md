@@ -7,7 +7,8 @@ AnoFel library leverages several cryptographic primitives, the concept of anonym
 
 ## Directory Structure
 This repository contains the following high-level structure:
-* [anofel-lib](anofel-lib) python scripts for AnoFel federated learning
-* [anofel-snark](anofel-snark) C++ code for AnoFel zk-SNARK for client setup and training
+* [anofel-lib](anofel-lib) python scripts for AnoFel federated learning which incorporates secure aggregation and differential privacy. The scripts can be used to obtain runtime and accuracy benchmarks.
+* [anofel-snark](anofel-snark) C++ code for AnoFel zk-SNARK for client setup and training to obtain prover and verifier runtime.
 
-Each directory contains a Dockerfile and build guide for running experiments.
+
+Each directory contains a Dockerfile and build guide for running experiments. Access to a GPU is recommended for running training experiments in anofel-lib.

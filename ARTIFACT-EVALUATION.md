@@ -13,9 +13,9 @@ The artifact repository contains the following high-level structure, and contain
 
 ### Security/Privacy Issues and Ethical Concerns (All badges)
 No security/privacy or ethical concerns. The artifact repository contains Dockerfiles to run experiments in containers.
+
 ## Environment
-In the following, describe how to access our artifact and all related and necessary data and software components.
-Afterward, describe how to set up everything and how to verify that everything is set up correctly.
+The artifact repository contains Dockerfiles to set up the environment and run experiments. Please refer to corresponding Readme files for detailed instructions. Access to a GPU is recommended for running training experiments in anofel-lib.
 
 ### Accessibility (All badges)
 The artifact can be accessed from the [artifact branch](https://github.com/zghodsi/anofel/tree/artifact).
